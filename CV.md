@@ -21,6 +21,11 @@
 - 2014-2020 : A volunteer in the association Tarbiya Wataniya scout
 - Participation in youth initiatives that support and help build society
 
+## Skills 
+- Microsoft office _WARD,PPT,ESCEL_
+- Programming languages _HTML,CSS,JS BASICS_
+- Life skills 
+
 
 
 
