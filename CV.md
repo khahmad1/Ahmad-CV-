@@ -26,7 +26,10 @@
 - Programming languages _HTML,CSS,JS BASICS_
 - Life skills 
 
-
+## Languages 
+- Arabic 
+- Frensh
+- English 
 
 
 
