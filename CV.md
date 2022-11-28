@@ -1,3 +1,5 @@
+![profile picture](pic1.jpg)
+
 # Ahmad Walid Kharma 
 
 - **Birthday:** 4 AUGUST 2003
